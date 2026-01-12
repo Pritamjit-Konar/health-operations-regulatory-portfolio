@@ -30,9 +30,6 @@ The project is structured to reflect how an entry-level associate supports regul
 
 ---
 
-
----
-
 ## 🛠 Skills Demonstrated
 
 - Health operations and regulatory documentation support  
