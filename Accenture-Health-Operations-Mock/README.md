@@ -30,12 +30,6 @@ The project is structured to reflect how an entry-level associate supports regul
 
 ---
 
-## 📁 Portfolio File
-
-The complete mock portfolio is available in this folder as a PDF file:
-
-- Accenture_Health Operations_Mock Project_Pritamjit.pdf
-
 
 ---
 
